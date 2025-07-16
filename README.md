@@ -38,7 +38,6 @@ Saya seorang **pengembang web** yang antusias dengan fokus pada pembangunan apli
 ### <p align="center"> 🔗 Terhubung dengan Saya 🔗 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/ikhsan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="ikhsannovriansyah34@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=email&logoColor=white" alt="Email" /></a>
 </p>
 
