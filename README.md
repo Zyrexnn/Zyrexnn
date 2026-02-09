@@ -1,90 +1,79 @@
-<h1 align="center">Halo Saya Ikhsan</h1>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b5/b7/cc/b5b7cc49f254a3c3bfff4313f2ef261f.gif" alt="Hacker Coding GIF" width="100%" />
-</p>
-
-<h3 align="center">
-  | 🚀 Full-Stack Developer | Machine Learning & DevOps Enthusiast 🐳 |
-</h3>
-
-<hr/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Halo,%20Saya%20Ikhsan&fontSize=70&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
-  <h2>🧑‍💻 About Me & Tech Stack</h2>
+  <h3>✨ Building Intelligent Systems & Narrative Worlds</h3>
+  <p>
+    <strong>Software Engineering Student | AI Enthusiast | Backend Specialist</strong>
+  </p>
 </div>
 
-<div align="left">
-  <ul>
-    <li>Building Website that help people every day.</li>
-    <li>Focused on learning and improving</li>
-    <li>Enjoy working on a variety of projects</li>
-    <li>Open to collaboration</li>
-  </ul>
-</div>
+<hr />
 
+## 🧑‍💻 Overview
+Saya adalah seorang pengembang yang berfokus pada efisiensi *backend* dan integrasi AI. Selain berkutat dengan kode, saya menghabiskan waktu membangun **Syntax Teras** dan menuangkan imajinasi ke dalam kata-kata.
+
+- 🛠️ **Sedang Membangun:** [Syntax Teras](https://instagram.com/syntaxteras) - Startup layanan pengembangan web.
+- 📖 **Proyek Literasi:** Menulis novel *"Matahari Mati"* — sebuah eksplorasi eksistensial dalam bentuk prosa.
+- 🎼 **Mood Booster:** Menikmati komposisi Vivaldi sambil merancang arsitektur sistem.
+- 📍 **Berbasis di:** Indonesia.
+
+---
+
+## 🚀 Tech Stack & Tools
+
+### 🏗️ Backend & Systems (Core Focus)
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Zyrexnn&style=for-the-badge&color=red" alt="Profile views" />
-  <a href="mailto:ikhsannovriansyah34@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
- 
-  
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fiber-000000?style=for-the-badge&logo=gofiber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<br>
+### 📱 Frontend & AI Integration
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
+---
+
+## 📈 Engineering Metrics
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Zyrexnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrexnn&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyrexnn&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </div>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Laragon-008080?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon" />
-</p>
 
-<hr/>
+---
 
+## 📬 Connectivity
 <div align="center">
-  <h2>📈 My GitHub Statistics</h2>
-  
+  <a href="https://instagram.com/console.log_if" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:ikhsannovriansyah34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/Zyrexnn">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zyrexnn&show_icons=true&theme=dark&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=9effff&bg_color=151515&count_private=true&custom_title=Ikhsan's%20GitHub%20Stats" alt="GitHub Stats Ikhsan" width="49%" />
-  </a>
-  <a href="https://github.com/Zyrexnn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyrexnn&theme=dark&hide_border=true&stroke=ff9800&ring=ff9800&background=151515&currstreakLabels=ff9800" alt="GitHub Streak Ikhsan" width="49%" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
-<hr/>
-
-<div align="center">
-  <h2>📈 GitHub Activity & Languages</h2>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyrexnn&theme=github-dark&hide_border=true&point=ff9800&line=00ffcc&bg_color=151515" alt="Grafik Aktivitas GitHub Ikhsan" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrexnn&layout=compact&theme=dark&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=9effff&bg_color=151515" alt="Bahasa Teratas Ikhsan" />
-</div>
-
-<hr/>
-
-<h2 align="center">📬 Mari Terhubung!</h2>
-
 <p align="center">
-  <a href="mailto:ikhsannovriansyah34@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  Terima kasih sudah mampir! 💻
+  <br />
+  <em>"Membangun kode dengan logika, menulis cerita dengan jiwa."</em>
 </p>
