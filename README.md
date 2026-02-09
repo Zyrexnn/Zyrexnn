@@ -68,7 +68,7 @@ Saya adalah seorang pengembang yang berfokus pada efisiensi *backend* dan integr
 
 ## 📬 Connectivity
 <div align="center">
-  <a href="https://instagram.com/console.log_if" target="_blank">
+  <a href="https://www.instagram.com/syntax_teras/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:ikhsannovriansyah34@gmail.com">
