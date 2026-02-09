@@ -1,6 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Halo,%20Saya%20Ikhsan&fontSize=70&animation=fadeIn" width="100%" />
-</div>
+<h1 align="center">Halo Saya Ikhsan</h1>
+
+
+
+<p align="center">
+
+  <img src="https://i.pinimg.com/originals/b5/b7/cc/b5b7cc49f254a3c3bfff4313f2ef261f.gif" alt="Hacker Coding GIF" width="100%" />
+
+</p>
 
 <div align="center">
   <h3>✨ Building Intelligent Systems & Narrative Worlds</h3>
