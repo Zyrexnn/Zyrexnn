@@ -1,11 +1,9 @@
-<h1 align="center">Halo Saya Ikhsan</h1>
+<h1 align="center">Hi, I'm Ikhsan (Zyrexnn) 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GEMINI_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fullstack_Developer-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Researcher-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend_Specialist-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 <p align="center">
@@ -13,33 +11,50 @@
 </p>
 
 <div align="center">
-  <h3>✨ Building Intelligent Systems & Narrative Worlds</h3>
+  <h3>✨ Building Scalable Systems & Intelligent Narratives</h3>
   <p>
-    <strong>Software Engineering Student | AI Enthusiast | Backend Specialist</strong>
+    <strong>Software Engineering Student | Specialized in High-Performance Backends & AI Integration</strong>
   </p>
 </div>
 
-<hr />
+---
 
-## 🧑‍💻 Overview
-Saya adalah seorang pengembang yang berfokus pada efisiensi *backend* dan integrasi AI. Selain berkutat dengan kode, saya menghabiskan waktu membangun **Syntax Teras** dan menuangkan imajinasi ke dalam kata-kata.
+## 🧑‍💻 Executive Summary
+I am a Software Engineer focused on building efficient, high-concurrency systems and integrating Large Language Models (LLMs) into real-world applications. Beyond technical architecture, I am the founder of **Syntax Teras** and an explorer of existential themes through literary works.
 
-* 🛠️ **Sedang Membangun:** [Syntax Teras](https://www.instagram.com/syntax_teras/) — Startup layanan pengembangan web.
-* 📖 **Proyek Literasi:** Menulis novel *"Matahari Mati"* — sebuah eksplorasi eksistensial dalam bentuk prosa.
-* 🎼 **Mood Booster:** Menikmati komposisi Vivaldi sambil merancang arsitektur sistem.
-* 📍 **Berbasis di:** Indonesia.
+* 🛠️ **Founder:** [Syntax Teras](https://www.instagram.com/syntax_teras/) — A web development startup delivering high-end digital solutions.
+* 🤖 **AI Focus:** Actively experimenting with **Gemini AI**, **Ollama**, and autonomous agent systems.
+* 📖 **Literary Work:** Author of *"Matahari Mati"* — a philosophical exploration in psychological fiction.
+* 🎼 **Philosophy:** Driven by Stoicism and the timeless compositions of Vivaldi.
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Core Competencies
 
-### 🏗️ Backend & Systems
+### 🏗️ Systems & Backend Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Fiber-000000?style=for-the-badge&logo=gofiber&logoColor=white" alt="Fiber" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Fiber-000000?style=for-the-badge&logo=gofiber&logoColor=white" alt="Fiber" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### 💻 Frontend & Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+### ⚙️ DevOps & AI Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
 ---
@@ -71,5 +86,5 @@ Saya adalah seorang pengembang yang berfokus pada efisiensi *backend* dan integr
 
 <p align="center">
   <br />
-  <em>"Membangun kode dengan logika, menulis cerita dengan jiwa."</em>
+  <em>"Architecting code with logic, composing stories with soul."</em>
 </p>
