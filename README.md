@@ -1,90 +1,254 @@
-<h1 align="center">Hi, I'm Ikhsan (Zyrexnn) 🚀</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Fullstack_Developer-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Researcher-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend_Specialist-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b5/b7/cc/b5b7cc49f254a3c3bfff4313f2ef261f.gif" alt="Hacker Coding GIF" width="100%" />
-</p>
-
 <div align="center">
-  <h3>✨ Building Scalable Systems & Intelligent Narratives</h3>
-  <p>
-    <strong>Software Engineering Student | Specialized in High-Performance Backends & AI Integration</strong>
-  </p>
-</div>
 
----
+# ⚡ Zyrexnn
 
-## 🧑‍💻 Executive Summary
-I am a Software Engineer focused on building efficient, high-concurrency systems and integrating Large Language Models (LLMs) into real-world applications. Beyond technical architecture, I am the founder of **Syntax Teras** and an explorer of existential themes through literary works.
+### `Software Developer • AI Engineering • Security Tooling`
 
-* 🛠️ **Founder:** [Syntax Teras](https://www.instagram.com/syntax_teras/) — A web development startup delivering high-end digital solutions.
-* 🤖 **AI Focus:** Actively experimenting with **Gemini AI**, **Ollama**, and autonomous agent systems.
-* 📖 **Literary Work:** Author of *"Matahari Mati"* — a philosophical exploration in psychological fiction.
-* 🎼 **Philosophy:** Driven by Stoicism and the timeless compositions of Vivaldi.
+Building **AI-powered tools, backend systems, and security automation.**
 
----
-
-## 🚀 Tech Stack & Core Competencies
-
-### 🏗️ Systems & Backend Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Fiber-000000?style=for-the-badge&logo=gofiber&logoColor=white" alt="Fiber" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### 💻 Frontend & Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
-
-### ⚙️ DevOps & AI Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-</p>
-
----
-
-## 📈 Engineering Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyrexnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrexnn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyrexnn&theme=react-dark&hide_border=true&area=true&bg_color=151515&color=ff79c6" width="100%" alt="Ikhsan Activity Graph" />
-</div>
-
----
-
-## 📬 Connectivity
-<div align="center">
-  <a href="https://www.instagram.com/syntax_teras/" target="_blank">
-    <img src="https://img.shields.io/badge/Startup-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<p>
+  <a href="https://github.com/Zyrexnn">
+    <img src="https://img.shields.io/github/followers/Zyrexnn?label=Followers&style=flat-square&color=181717" />
   </a>
-  <a href="https://www.instagram.com/console.log_if/" target="_blank">
-    <img src="https://img.shields.io/badge/Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/Zyrexnn?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Zyrexnn?style=flat-square&color=yellow" />
   </a>
   <a href="mailto:ikhsannovriansyah34@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+</p>
+
 </div>
 
-<p align="center">
-  <br />
-  <em>"Architecting code with logic, composing stories with soul."</em>
+<img src="https://i.pinimg.com/originals/b5/b7/cc/b5b7cc49f254a3c3bfff4313f2ef261f.gif" width="100%" />
+
+---
+
+## `$ whoami`
+
+I'm **Ikhsan**, online as **Zyrexnn**.
+
+I like building software around the intersection of:
+
+```text
+AI Agents
+        ↓
+Developer Tools
+        ↓
+Backend Systems
+        ↓
+Security Automation
+```
+
+Most of my projects start from one question:
+
+> **"Can this workflow be made faster, smarter, or easier to automate?"**
+
+---
+
+## 🔥 Currently Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Cybermes
+
+AI-assisted offensive security workflow focused on combining autonomous agents, reconnaissance, automation, and security tooling.
+
+**Stack**
+`Go` `AI Agents` `Security` `Automation`
+
+→ [View Repository](https://github.com/Zyrexnn/Cybermes)
+
+</td>
+
+<td width="50%">
+
+### ⚡ serahkan-cli
+
+A lightweight CLI focused on fast reconnaissance and automation workflows.
+
+**Stack**
+`Go` `CLI` `Recon` `Automation`
+
+→ [View Repository](https://github.com/Zyrexnn/serahkan-cli)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔌 Jnoryth-MCP
+
+Experimenting with **Model Context Protocol** and tool-driven AI workflows.
+
+**Stack**
+`Go` `MCP` `AI` `Tooling`
+
+→ [View Repository](https://github.com/Zyrexnn/Jnoryth-MCP)
+
+</td>
+
+<td width="50%">
+
+### 🧪 Experiments
+
+A collection of experiments around local LLMs, agents, automation, backend architecture, and developer tooling.
+
+**Focus**
+
+`LLM` `MCP` `Local AI` `Systems`
+
+→ [Explore Repositories](https://github.com/Zyrexnn?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,rust,python,js,ts,java" />
 </p>
+
+### Backend & Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,nodejs,postgres,docker,linux" />
+</p>
+
+### Frontend & Apps
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,flutter,html,css" />
+</p>
+
+### AI / Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,docker" />
+</p>
+
+`LLMs` `AI Agents` `MCP` `Ollama` `Gemini` `Local AI`
+
+---
+
+## 🧩 Areas I Work In
+
+<table>
+<tr>
+<td>
+
+### AI Engineering
+
+* LLM integration
+* AI agents
+* tool calling
+* MCP
+* local inference
+
+</td>
+<td>
+
+### Backend
+
+* Go services
+* APIs
+* concurrency
+* automation
+* system design
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Security
+
+* reconnaissance
+* security automation
+* bug bounty tooling
+* offensive security research
+
+</td>
+<td>
+
+### Developer Tools
+
+* CLI applications
+* workflow automation
+* infrastructure tooling
+* open-source experiments
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyrexnn&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zyrexnn&theme=tokyonight" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zyrexnn&theme=tokyonight" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyrexnn&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🚀 GitHub Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/github/created-at/Zyrexnn/Cybermes?style=for-the-badge&label=Cybermes%20Created" />
+
+<img src="https://img.shields.io/github/last-commit/Zyrexnn/Cybermes?style=for-the-badge&label=Cybermes%20Updated" />
+
+<img src="https://img.shields.io/github/stars/Zyrexnn/Cybermes?style=for-the-badge&label=Cybermes%20Stars" />
+
+</p>
+
+---
+
+## 🌐 Find Me
+
+<p align="center">
+
+<a href="https://github.com/Zyrexnn">
+<img src="https://skillicons.dev/icons?i=github" width="48" />
+</a>
+
+<a href="mailto:ikhsannovriansyah34@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### `Build → Experiment → Break → Learn → Ship`
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Zyrexnn&label=Profile%20Views&color=grey&style=flat-square" />
+
+</div>
