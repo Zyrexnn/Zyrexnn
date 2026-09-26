@@ -27,6 +27,3 @@ AI Engineer specializing in autonomous multi-agent architectures, LLM orchestrat
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyrexnn&theme=tokyonight" width="100%" alt="Commit Activity" />
 </p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zyrexnn&theme=tokyonight" alt="Top Languages by Commit" />
-</p>
