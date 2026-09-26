@@ -1,15 +1,25 @@
 # Ikhsan Novriansyah
 
-Software Engineer specializing in autonomous agents, offensive security tooling, and backend systems.
+AI Engineer specializing in autonomous multi-agent systems, LLM orchestration, and adversarial security.
 
 [LinkedIn](https://www.linkedin.com/in/ikhsan-novriansyah-2b6b2b331/) &bull; [Email](mailto:ikhsannovriansyah34@gmail.com)
 
 ---
 
-### Stack
+### Profile
+
+- **Role:** AI Engineer
+- **Focus:** Autonomous Agents, Multi-Model Orchestration, Model Context Protocol (MCP), Local AI Inference
+- **Engineering Domains:** Agentic Tool-Use, AI Security & Adversarial Analysis, Backend Systems
+- **Location:** Jakarta, Indonesia
+- **Current Work:** Developing autonomous multi-agent reasoning pipelines, tool-calling frameworks, and self-hosted inference runtimes
+
+---
+
+### Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,ts,c,bash,docker,linux,postgres,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,go,docker,linux,postgres,git,bash" alt="AI & Engineering Stack" />
 </p>
 
 ---
