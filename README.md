@@ -1,29 +1,39 @@
 # Ikhsan Novriansyah
 
-AI Engineer specializing in autonomous multi-agent architectures, LLM orchestration, and adversarial security tooling.
+**AI Engineer · Agent Systems · Security Tooling**
 
-[LinkedIn](https://www.linkedin.com/in/ikhsan-novriansyah-2b6b2b331/) &bull; [Email](mailto:ikhsannovriansyah34@gmail.com)
+I build autonomous AI systems, agentic workflows, and security tooling — with a focus on making LLMs useful beyond simple chat interfaces.
 
----
-
-### Focus & Research
-
-- **Autonomous Agent Architectures:** Multi-model reasoning loops, structured tool-calling pipelines, and Model Context Protocol (MCP) integrations.
-- **Offensive AI & Red Teaming:** Automated reconnaissance workflows, exploit synthesis, and LLM adversarial evaluation (creator of [Cybermes](https://github.com/Zyrexnn/Cybermes)).
-- **Systems & Local Inference:** High-concurrency Go & Python backends, containerized pipelines, and self-hosted model serving (Ollama, vLLM).
+[LinkedIn](https://www.linkedin.com/in/ikhsan-novriansyah-2b6b2b331/) · [Email](mailto:ikhannovriansyah34@gmail.com) · [GitHub](https://github.com/Zyrexnn)
 
 ---
 
-### Technologies
+### What I Work On
+
+* **Agent Systems** — Multi-agent workflows, tool calling, context management, and MCP-based integrations.
+* **AI × Security** — Autonomous reconnaissance, security automation, adversarial testing, and AI-assisted offensive security. Creator of [Cybermes](https://github.com/Zyrexnn/Cybermes).
+* **Systems Engineering** — Go and Python services, concurrent workloads, containerized infrastructure, and local LLM inference.
+* **LLM Infrastructure** — Model orchestration, self-hosted inference, and integrating different models into practical agent workflows.
+
+---
+
+### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,go,docker,linux,postgres,git,bash" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,go,pytorch,fastapi,docker,linux,postgres,git,react,typescript,astro,next,ubuntu,arch,bash,aws,vercel,cloudflare,tailwind,vue," alt="Tech Stack" />
 </p>
 
 ---
 
-### Commit Statistics
+### Selected Project
+
+**[Cybermes](https://github.com/Zyrexnn/Cybermes)**
+AI-powered security tooling that connects agent workflows with reconnaissance, security knowledge, and specialized tooling through MCP.
+
+---
+
+### GitHub Activity
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyrexnn&theme=tokyonight" width="100%" alt="Commit Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyrexnn&theme=tokyonight" width="100%" alt="GitHub Activity" />
 </p>
