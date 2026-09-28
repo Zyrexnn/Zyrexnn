@@ -25,12 +25,7 @@ I build autonomous AI systems, agentic workflows, and security tooling — with 
 
 ---
 
-### Selected Project
 
-**[Cybermes](https://github.com/Zyrexnn/Cybermes)**
-AI-powered security tooling that connects agent workflows with reconnaissance, security knowledge, and specialized tooling through MCP.
-
----
 
 ### GitHub Activity
 
